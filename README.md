@@ -1,4 +1,4 @@
-## Kaiburr Task 5 - DevOps CI/CD Pipeline
+## Kaiburr Task 4 - DevOps CI/CD Pipeline
 
 This project demonstrates a simple DevOps CI/CD setup using **GitHub Actions**. It includes a mock Node.js application and a workflow to automate installation, testing, and build steps.
 
